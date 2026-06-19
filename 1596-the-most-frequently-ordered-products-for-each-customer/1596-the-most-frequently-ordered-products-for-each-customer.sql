@@ -1,14 +1,14 @@
 # Write your MySQL query statement below
-WITH order_counts AS (
-    SELECT customer_id, product_id, COUNT(*) as cnt
-    FROM Orders
-    GROUP BY customer_id, product_id
+WITH CTE AS (
+    SELECT
+        o.customer_id,
+        o.product_id,
+        product_name,
+        RANK() OVER (PARTITION BY customer_id ORDER BY COUNT(*) DESC) as r
+    FROM Orders o
+    JOIN products p ON o.product_id=p.product_id
+    GROUP BY o.customer_id, o.product_id
 )
-
-SELECT customer_id, a.product_id, product_name
-FROM (
-    SELECT customer_id, product_id, DENSE_RANK() OVER (PARTITION BY customer_id ORDER BY cnt DESC) as rn
-    FROM order_counts
-) a
-JOIN Products p ON p.product_id = a.product_id
-WHERE rn = 1 
+SELECT  customer_id, product_id, product_name
+FROM CTE
+WHERE r = 1
