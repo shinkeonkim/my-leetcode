@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1173-immediate-food-delivery-i](https://github.com/shinkeonkim/my-leetcode/tree/master/1173-immediate-food-delivery-i) |
+| [1225-report-contiguous-dates](https://github.com/shinkeonkim/my-leetcode/tree/master/1225-report-contiguous-dates) |
 | [1270-all-people-report-to-the-given-manager](https://github.com/shinkeonkim/my-leetcode/tree/master/1270-all-people-report-to-the-given-manager) |
 | [1285-find-the-start-and-end-number-of-continuous-ranges](https://github.com/shinkeonkim/my-leetcode/tree/master/1285-find-the-start-and-end-number-of-continuous-ranges) |
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/shinkeonkim/my-leetcode/tree/master/1412-find-the-quiet-students-in-all-exams) |
