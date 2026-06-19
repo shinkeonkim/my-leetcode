@@ -1,5 +1,6 @@
 def is_even_bits_count(num):
     return bin(num).count('1') % 2 == 0
+
 class Solution(object):
     def tripletCount(self, a, b, c):
         """
