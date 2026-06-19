@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [1550-three-consecutive-odds](https://github.com/shinkeonkim/my-leetcode/tree/master/1550-three-consecutive-odds) |
 ## Greedy
 |  |
 | ------- |
