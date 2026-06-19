@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/shinkeonkim/my-leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shinkeonkim/my-leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1173-immediate-food-delivery-i](https://github.com/shinkeonkim/my-leetcode/tree/master/1173-immediate-food-delivery-i) |
 | [1225-report-contiguous-dates](https://github.com/shinkeonkim/my-leetcode/tree/master/1225-report-contiguous-dates) |
