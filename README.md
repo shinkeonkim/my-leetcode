@@ -71,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3581-count-odd-letters-from-number](https://github.com/shinkeonkim/my-leetcode/tree/master/3581-count-odd-letters-from-number) |
+## Tree
+|  |
+| ------- |
+| [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 <!---LeetCode Topics End-->
