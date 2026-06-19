@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1767-find-the-subtasks-that-did-not-execute](https://github.com/shinkeonkim/my-leetcode/tree/master/1767-find-the-subtasks-that-did-not-execute) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/shinkeonkim/my-leetcode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
 | [1890-the-latest-login-in-2020](https://github.com/shinkeonkim/my-leetcode/tree/master/1890-the-latest-login-in-2020) |
+## Array
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
