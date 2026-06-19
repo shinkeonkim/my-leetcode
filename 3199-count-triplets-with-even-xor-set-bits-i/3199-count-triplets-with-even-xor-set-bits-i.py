@@ -13,8 +13,7 @@ class Solution(object):
         for i in a:
             for j in b:
                 for k in c:
-                    m = i ^ j ^ k
-                    if is_even_bits_count(m):
+                    if is_even_bits_count(i ^ j ^ k):
                         ans += 1
         
         return ans
