@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1767-find-the-subtasks-that-did-not-execute](https://github.com/shinkeonkim/my-leetcode/tree/master/1767-find-the-subtasks-that-did-not-execute) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/shinkeonkim/my-leetcode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
 | [1890-the-latest-login-in-2020](https://github.com/shinkeonkim/my-leetcode/tree/master/1890-the-latest-login-in-2020) |
+| [2082-the-number-of-rich-customers](https://github.com/shinkeonkim/my-leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2738-count-occurrences-in-text](https://github.com/shinkeonkim/my-leetcode/tree/master/2738-count-occurrences-in-text) |
 ## Array
 |  |
