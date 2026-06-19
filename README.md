@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-find-the-team-size](https://github.com/shinkeonkim/my-leetcode/tree/master/1303-find-the-team-size) |
 | [1322-ads-performance](https://github.com/shinkeonkim/my-leetcode/tree/master/1322-ads-performance) |
 | [1350-students-with-invalid-departments](https://github.com/shinkeonkim/my-leetcode/tree/master/1350-students-with-invalid-departments) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shinkeonkim/my-leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/shinkeonkim/my-leetcode/tree/master/1407-top-travellers) |
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/shinkeonkim/my-leetcode/tree/master/1412-find-the-quiet-students-in-all-exams) |
 | [1445-apples-oranges](https://github.com/shinkeonkim/my-leetcode/tree/master/1445-apples-oranges) |
