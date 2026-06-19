@@ -25,4 +25,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1709-biggest-window-between-visits](https://github.com/shinkeonkim/my-leetcode/tree/master/1709-biggest-window-between-visits) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/shinkeonkim/my-leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1767-find-the-subtasks-that-did-not-execute](https://github.com/shinkeonkim/my-leetcode/tree/master/1767-find-the-subtasks-that-did-not-execute) |
+| [1890-the-latest-login-in-2020](https://github.com/shinkeonkim/my-leetcode/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
