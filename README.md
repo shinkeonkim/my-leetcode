@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-find-the-team-size](https://github.com/shinkeonkim/my-leetcode/tree/master/1303-find-the-team-size) |
 | [1350-students-with-invalid-departments](https://github.com/shinkeonkim/my-leetcode/tree/master/1350-students-with-invalid-departments) |
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/shinkeonkim/my-leetcode/tree/master/1412-find-the-quiet-students-in-all-exams) |
+| [1445-apples-oranges](https://github.com/shinkeonkim/my-leetcode/tree/master/1445-apples-oranges) |
 | [1495-friendly-movies-streamed-last-month](https://github.com/shinkeonkim/my-leetcode/tree/master/1495-friendly-movies-streamed-last-month) |
 | [1501-countries-you-can-safely-invest-in](https://github.com/shinkeonkim/my-leetcode/tree/master/1501-countries-you-can-safely-invest-in) |
 | [1587-bank-account-summary-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/1587-bank-account-summary-ii) |
