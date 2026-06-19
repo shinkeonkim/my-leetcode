@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-apples-oranges](https://github.com/shinkeonkim/my-leetcode/tree/master/1445-apples-oranges) |
 | [1495-friendly-movies-streamed-last-month](https://github.com/shinkeonkim/my-leetcode/tree/master/1495-friendly-movies-streamed-last-month) |
 | [1501-countries-you-can-safely-invest-in](https://github.com/shinkeonkim/my-leetcode/tree/master/1501-countries-you-can-safely-invest-in) |
+| [1517-find-users-with-valid-e-mails](https://github.com/shinkeonkim/my-leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1571-warehouse-manager](https://github.com/shinkeonkim/my-leetcode/tree/master/1571-warehouse-manager) |
 | [1587-bank-account-summary-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1596-the-most-frequently-ordered-products-for-each-customer](https://github.com/shinkeonkim/my-leetcode/tree/master/1596-the-most-frequently-ordered-products-for-each-customer) |
