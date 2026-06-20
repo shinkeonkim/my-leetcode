@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0760-find-anagram-mappings](https://github.com/shinkeonkim/my-leetcode/tree/master/0760-find-anagram-mappings) |
 | [3063-linked-list-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3063-linked-list-frequency) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
 | [3581-count-odd-letters-from-number](https://github.com/shinkeonkim/my-leetcode/tree/master/3581-count-odd-letters-from-number) |
 ## Simulation
 |  |
@@ -115,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 <!---LeetCode Topics End-->
