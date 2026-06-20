@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0280-wiggle-sort](https://github.com/shinkeonkim/my-leetcode/tree/master/0280-wiggle-sort) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0760-find-anagram-mappings](https://github.com/shinkeonkim/my-leetcode/tree/master/0760-find-anagram-mappings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0280-wiggle-sort](https://github.com/shinkeonkim/my-leetcode/tree/master/0280-wiggle-sort) |
 | [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
 ## Hash Table
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0280-wiggle-sort](https://github.com/shinkeonkim/my-leetcode/tree/master/0280-wiggle-sort) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
