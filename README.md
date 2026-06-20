@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0760-find-anagram-mappings](https://github.com/shinkeonkim/my-leetcode/tree/master/0760-find-anagram-mappings) |
+| [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 | [3063-linked-list-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3063-linked-list-frequency) |
 | [3581-count-odd-letters-from-number](https://github.com/shinkeonkim/my-leetcode/tree/master/3581-count-odd-letters-from-number) |
 ## Linked List
@@ -90,14 +91,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
+| [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
+| [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
+| [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
