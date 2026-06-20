@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2782-number-of-unique-categories](https://github.com/shinkeonkim/my-leetcode/tree/master/2782-number-of-unique-categories) |
 | [3063-linked-list-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3063-linked-list-frequency) |
 | [3581-count-odd-letters-from-number](https://github.com/shinkeonkim/my-leetcode/tree/master/3581-count-odd-letters-from-number) |
 ## String
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1056-confusing-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1056-confusing-number) |
+## Union-Find
+|  |
+| ------- |
+| [2782-number-of-unique-categories](https://github.com/shinkeonkim/my-leetcode/tree/master/2782-number-of-unique-categories) |
+## Interactive
+|  |
+| ------- |
+| [2782-number-of-unique-categories](https://github.com/shinkeonkim/my-leetcode/tree/master/2782-number-of-unique-categories) |
 <!---LeetCode Topics End-->
