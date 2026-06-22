@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1173-immediate-food-delivery-i](https://github.com/shinkeonkim/my-leetcode/tree/master/1173-immediate-food-delivery-i) |
 | [1225-report-contiguous-dates](https://github.com/shinkeonkim/my-leetcode/tree/master/1225-report-contiguous-dates) |
 | [1270-all-people-report-to-the-given-manager](https://github.com/shinkeonkim/my-leetcode/tree/master/1270-all-people-report-to-the-given-manager) |
+| [1280-students-and-examinations](https://github.com/shinkeonkim/my-leetcode/tree/master/1280-students-and-examinations) |
 | [1285-find-the-start-and-end-number-of-continuous-ranges](https://github.com/shinkeonkim/my-leetcode/tree/master/1285-find-the-start-and-end-number-of-continuous-ranges) |
 | [1303-find-the-team-size](https://github.com/shinkeonkim/my-leetcode/tree/master/1303-find-the-team-size) |
 | [1322-ads-performance](https://github.com/shinkeonkim/my-leetcode/tree/master/1322-ads-performance) |
