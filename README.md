@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/shinkeonkim/my-leetcode/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/shinkeonkim/my-leetcode/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/shinkeonkim/my-leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shinkeonkim/my-leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/shinkeonkim/my-leetcode/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shinkeonkim/my-leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
