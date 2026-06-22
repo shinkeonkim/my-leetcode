@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
 | [0734-sentence-similarity](https://github.com/shinkeonkim/my-leetcode/tree/master/0734-sentence-similarity) |
 | [3581-count-odd-letters-from-number](https://github.com/shinkeonkim/my-leetcode/tree/master/3581-count-odd-letters-from-number) |
+| [3794-reverse-string-prefix](https://github.com/shinkeonkim/my-leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [3794-reverse-string-prefix](https://github.com/shinkeonkim/my-leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
