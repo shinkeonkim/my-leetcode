@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [3063-linked-list-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3063-linked-list-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shinkeonkim/my-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-count-odd-letters-from-number](https://github.com/shinkeonkim/my-leetcode/tree/master/3581-count-odd-letters-from-number) |
 ## Linked List
 |  |
@@ -85,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2782-number-of-unique-categories](https://github.com/shinkeonkim/my-leetcode/tree/master/2782-number-of-unique-categories) |
 | [3063-linked-list-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3063-linked-list-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shinkeonkim/my-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-count-odd-letters-from-number](https://github.com/shinkeonkim/my-leetcode/tree/master/3581-count-odd-letters-from-number) |
 ## String
 |  |
 | ------- |
 | [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
 | [0734-sentence-similarity](https://github.com/shinkeonkim/my-leetcode/tree/master/0734-sentence-similarity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shinkeonkim/my-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-count-odd-letters-from-number](https://github.com/shinkeonkim/my-leetcode/tree/master/3581-count-odd-letters-from-number) |
 | [3794-reverse-string-prefix](https://github.com/shinkeonkim/my-leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
