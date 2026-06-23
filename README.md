@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/shinkeonkim/my-leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/shinkeonkim/my-leetcode/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shinkeonkim/my-leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1069-product-sales-analysis-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/1069-product-sales-analysis-ii) |
 | [1173-immediate-food-delivery-i](https://github.com/shinkeonkim/my-leetcode/tree/master/1173-immediate-food-delivery-i) |
 | [1225-report-contiguous-dates](https://github.com/shinkeonkim/my-leetcode/tree/master/1225-report-contiguous-dates) |
 | [1270-all-people-report-to-the-given-manager](https://github.com/shinkeonkim/my-leetcode/tree/master/1270-all-people-report-to-the-given-manager) |
