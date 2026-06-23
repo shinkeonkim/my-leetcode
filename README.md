@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-concatenate-the-name-and-the-profession](https://github.com/shinkeonkim/my-leetcode/tree/master/2504-concatenate-the-name-and-the-profession) |
 | [2687-bikes-last-time-used](https://github.com/shinkeonkim/my-leetcode/tree/master/2687-bikes-last-time-used) |
 | [2738-count-occurrences-in-text](https://github.com/shinkeonkim/my-leetcode/tree/master/2738-count-occurrences-in-text) |
+| [3198-find-cities-in-each-state](https://github.com/shinkeonkim/my-leetcode/tree/master/3198-find-cities-in-each-state) |
 | [3358-books-with-null-ratings](https://github.com/shinkeonkim/my-leetcode/tree/master/3358-books-with-null-ratings) |
 | [3415-find-products-with-three-consecutive-digits](https://github.com/shinkeonkim/my-leetcode/tree/master/3415-find-products-with-three-consecutive-digits) |
 ## Array
