@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1322-ads-performance](https://github.com/shinkeonkim/my-leetcode/tree/master/1322-ads-performance) |
 | [1350-students-with-invalid-departments](https://github.com/shinkeonkim/my-leetcode/tree/master/1350-students-with-invalid-departments) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shinkeonkim/my-leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/shinkeonkim/my-leetcode/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/shinkeonkim/my-leetcode/tree/master/1407-top-travellers) |
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/shinkeonkim/my-leetcode/tree/master/1412-find-the-quiet-students-in-all-exams) |
 | [1421-npv-queries](https://github.com/shinkeonkim/my-leetcode/tree/master/1421-npv-queries) |
