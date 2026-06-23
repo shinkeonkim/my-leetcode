@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2082-the-number-of-rich-customers](https://github.com/shinkeonkim/my-leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2372-calculate-the-influence-of-each-salesperson](https://github.com/shinkeonkim/my-leetcode/tree/master/2372-calculate-the-influence-of-each-salesperson) |
 | [2738-count-occurrences-in-text](https://github.com/shinkeonkim/my-leetcode/tree/master/2738-count-occurrences-in-text) |
+| [3358-books-with-null-ratings](https://github.com/shinkeonkim/my-leetcode/tree/master/3358-books-with-null-ratings) |
 ## Array
 |  |
 | ------- |
