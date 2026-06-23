@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shinkeonkim/my-leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/shinkeonkim/my-leetcode/tree/master/1407-top-travellers) |
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/shinkeonkim/my-leetcode/tree/master/1412-find-the-quiet-students-in-all-exams) |
+| [1421-npv-queries](https://github.com/shinkeonkim/my-leetcode/tree/master/1421-npv-queries) |
 | [1445-apples-oranges](https://github.com/shinkeonkim/my-leetcode/tree/master/1445-apples-oranges) |
 | [1484-group-sold-products-by-the-date](https://github.com/shinkeonkim/my-leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1495-friendly-movies-streamed-last-month](https://github.com/shinkeonkim/my-leetcode/tree/master/1495-friendly-movies-streamed-last-month) |
