@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1699-number-of-calls-between-two-persons](https://github.com/shinkeonkim/my-leetcode/tree/master/1699-number-of-calls-between-two-persons) |
 | [1709-biggest-window-between-visits](https://github.com/shinkeonkim/my-leetcode/tree/master/1709-biggest-window-between-visits) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/shinkeonkim/my-leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1757-recyclable-and-low-fat-products](https://github.com/shinkeonkim/my-leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1767-find-the-subtasks-that-did-not-execute](https://github.com/shinkeonkim/my-leetcode/tree/master/1767-find-the-subtasks-that-did-not-execute) |
 | [1777-products-price-for-each-store](https://github.com/shinkeonkim/my-leetcode/tree/master/1777-products-price-for-each-store) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/shinkeonkim/my-leetcode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
