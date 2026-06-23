@@ -2,5 +2,5 @@ import numpy as np
 import pandas as pd
 
 def capital_gainloss(stocks: pd.DataFrame) -> pd.DataFrame:
-    stocks['result_price'] = np.where(stocks['operation'] == 'Buy', -stocks['price'], stocks['price'])
-    return stocks.groupby('stock_name').agg(capital_gain_loss=('result_price', 'sum')).reset_index()
+    stocks['amount'] = stocks['price'] * stocks['operation'].map({'Buy': -1, 'Sell': 1})
+    return stocks.groupby('stock_name')['amount'].sum().reset_index(name='capital_gain_loss')
