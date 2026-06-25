@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3051-find-candidates-for-data-scientist-position](https://github.com/shinkeonkim/my-leetcode/tree/master/3051-find-candidates-for-data-scientist-position) |
 | [3198-find-cities-in-each-state](https://github.com/shinkeonkim/my-leetcode/tree/master/3198-find-cities-in-each-state) |
 | [3246-premier-league-table-ranking](https://github.com/shinkeonkim/my-leetcode/tree/master/3246-premier-league-table-ranking) |
+| [3293-calculate-product-final-price](https://github.com/shinkeonkim/my-leetcode/tree/master/3293-calculate-product-final-price) |
 | [3358-books-with-null-ratings](https://github.com/shinkeonkim/my-leetcode/tree/master/3358-books-with-null-ratings) |
 | [3415-find-products-with-three-consecutive-digits](https://github.com/shinkeonkim/my-leetcode/tree/master/3415-find-products-with-three-consecutive-digits) |
 | [3475-dna-pattern-recognition](https://github.com/shinkeonkim/my-leetcode/tree/master/3475-dna-pattern-recognition) |
