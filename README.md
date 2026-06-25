@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2988-manager-of-the-largest-department](https://github.com/shinkeonkim/my-leetcode/tree/master/2988-manager-of-the-largest-department) |
 | [2993-friday-purchases-i](https://github.com/shinkeonkim/my-leetcode/tree/master/2993-friday-purchases-i) |
 | [3051-find-candidates-for-data-scientist-position](https://github.com/shinkeonkim/my-leetcode/tree/master/3051-find-candidates-for-data-scientist-position) |
+| [3054-binary-tree-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/3054-binary-tree-nodes) |
 | [3198-find-cities-in-each-state](https://github.com/shinkeonkim/my-leetcode/tree/master/3198-find-cities-in-each-state) |
 | [3246-premier-league-table-ranking](https://github.com/shinkeonkim/my-leetcode/tree/master/3246-premier-league-table-ranking) |
 | [3293-calculate-product-final-price](https://github.com/shinkeonkim/my-leetcode/tree/master/3293-calculate-product-final-price) |
