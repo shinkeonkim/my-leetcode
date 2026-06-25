@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2738-count-occurrences-in-text](https://github.com/shinkeonkim/my-leetcode/tree/master/2738-count-occurrences-in-text) |
 | [2837-total-traveled-distance](https://github.com/shinkeonkim/my-leetcode/tree/master/2837-total-traveled-distance) |
 | [2987-find-expensive-cities](https://github.com/shinkeonkim/my-leetcode/tree/master/2987-find-expensive-cities) |
+| [2993-friday-purchases-i](https://github.com/shinkeonkim/my-leetcode/tree/master/2993-friday-purchases-i) |
 | [3051-find-candidates-for-data-scientist-position](https://github.com/shinkeonkim/my-leetcode/tree/master/3051-find-candidates-for-data-scientist-position) |
 | [3198-find-cities-in-each-state](https://github.com/shinkeonkim/my-leetcode/tree/master/3198-find-cities-in-each-state) |
 | [3246-premier-league-table-ranking](https://github.com/shinkeonkim/my-leetcode/tree/master/3246-premier-league-table-ranking) |
