@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3358-books-with-null-ratings](https://github.com/shinkeonkim/my-leetcode/tree/master/3358-books-with-null-ratings) |
 | [3415-find-products-with-three-consecutive-digits](https://github.com/shinkeonkim/my-leetcode/tree/master/3415-find-products-with-three-consecutive-digits) |
 | [3475-dna-pattern-recognition](https://github.com/shinkeonkim/my-leetcode/tree/master/3475-dna-pattern-recognition) |
+| [3497-analyze-subscription-conversion](https://github.com/shinkeonkim/my-leetcode/tree/master/3497-analyze-subscription-conversion) |
 ## Array
 |  |
 | ------- |
