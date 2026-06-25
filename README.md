@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-sort-the-olympic-table](https://github.com/shinkeonkim/my-leetcode/tree/master/2377-sort-the-olympic-table) |
 | [2480-form-a-chemical-bond](https://github.com/shinkeonkim/my-leetcode/tree/master/2480-form-a-chemical-bond) |
 | [2504-concatenate-the-name-and-the-profession](https://github.com/shinkeonkim/my-leetcode/tree/master/2504-concatenate-the-name-and-the-profession) |
+| [2668-find-latest-salaries](https://github.com/shinkeonkim/my-leetcode/tree/master/2668-find-latest-salaries) |
 | [2687-bikes-last-time-used](https://github.com/shinkeonkim/my-leetcode/tree/master/2687-bikes-last-time-used) |
 | [2738-count-occurrences-in-text](https://github.com/shinkeonkim/my-leetcode/tree/master/2738-count-occurrences-in-text) |
 | [2837-total-traveled-distance](https://github.com/shinkeonkim/my-leetcode/tree/master/2837-total-traveled-distance) |
