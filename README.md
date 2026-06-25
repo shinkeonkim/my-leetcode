@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/shinkeonkim/my-leetcode/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shinkeonkim/my-leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1069-product-sales-analysis-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/1069-product-sales-analysis-ii) |
+| [1082-sales-analysis-i](https://github.com/shinkeonkim/my-leetcode/tree/master/1082-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/shinkeonkim/my-leetcode/tree/master/1148-article-views-i) |
 | [1173-immediate-food-delivery-i](https://github.com/shinkeonkim/my-leetcode/tree/master/1173-immediate-food-delivery-i) |
 | [1225-report-contiguous-dates](https://github.com/shinkeonkim/my-leetcode/tree/master/1225-report-contiguous-dates) |
