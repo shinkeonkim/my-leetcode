@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 ## Breadth-First Search
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Two Pointers
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/shinkeonkim/my-leetcode/tree/master/2413-smallest-even-multiple) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
