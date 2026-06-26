@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shinkeonkim/my-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 ## Greedy
 |  |
@@ -194,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/shinkeonkim/my-leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1133-largest-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1133-largest-unique-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
