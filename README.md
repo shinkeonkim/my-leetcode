@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1427-perform-string-shifts](https://github.com/shinkeonkim/my-leetcode/tree/master/1427-perform-string-shifts) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shinkeonkim/my-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/shinkeonkim/my-leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/shinkeonkim/my-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1720-decode-xored-array) |
