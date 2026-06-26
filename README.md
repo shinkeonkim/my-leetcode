@@ -245,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0276-paint-fence](https://github.com/shinkeonkim/my-leetcode/tree/master/0276-paint-fence) |
 <!---LeetCode Topics End-->
