@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0249-group-shifted-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/shinkeonkim/my-leetcode/tree/master/0252-meeting-rooms) |
+| [0256-paint-house](https://github.com/shinkeonkim/my-leetcode/tree/master/0256-paint-house) |
 | [0280-wiggle-sort](https://github.com/shinkeonkim/my-leetcode/tree/master/0280-wiggle-sort) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0422-valid-word-square](https://github.com/shinkeonkim/my-leetcode/tree/master/0422-valid-word-square) |
@@ -250,5 +251,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0256-paint-house](https://github.com/shinkeonkim/my-leetcode/tree/master/0256-paint-house) |
 | [0276-paint-fence](https://github.com/shinkeonkim/my-leetcode/tree/master/0276-paint-fence) |
 <!---LeetCode Topics End-->
