@@ -313,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/shinkeonkim/my-leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
