@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
