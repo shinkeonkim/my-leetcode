@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-perform-string-shifts](https://github.com/shinkeonkim/my-leetcode/tree/master/1427-perform-string-shifts) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shinkeonkim/my-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/shinkeonkim/my-leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/shinkeonkim/my-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -296,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1603-design-parking-system) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
