@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1603-design-parking-system) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shinkeonkim/my-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3581-count-odd-letters-from-number](https://github.com/shinkeonkim/my-leetcode/tree/master/3581-count-odd-letters-from-number) |
 ## Tree
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shinkeonkim/my-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/shinkeonkim/my-leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/shinkeonkim/my-leetcode/tree/master/2413-smallest-even-multiple) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/shinkeonkim/my-leetcode/tree/master/3516-find-closest-person) |
 ## Union-Find
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
