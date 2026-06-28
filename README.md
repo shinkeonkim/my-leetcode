@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shinkeonkim/my-leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/shinkeonkim/my-leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/shinkeonkim/my-leetcode/tree/master/2413-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/shinkeonkim/my-leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/shinkeonkim/my-leetcode/tree/master/2652-sum-multiples) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/3280-convert-date-to-binary) |
