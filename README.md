@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/shinkeonkim/my-leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shinkeonkim/my-leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1426-counting-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/1426-counting-elements) |
 | [1427-perform-string-shifts](https://github.com/shinkeonkim/my-leetcode/tree/master/1427-perform-string-shifts) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shinkeonkim/my-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1470-shuffle-the-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0760-find-anagram-mappings](https://github.com/shinkeonkim/my-leetcode/tree/master/0760-find-anagram-mappings) |
 | [1133-largest-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1133-largest-unique-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1426-counting-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/1426-counting-elements) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
