@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1133-largest-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1133-largest-unique-number) |
 | [1200-minimum-absolute-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1313-decompress-run-length-encoded-list](https://github.com/shinkeonkim/my-leetcode/tree/master/1313-decompress-run-length-encoded-list) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shinkeonkim/my-leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1426-counting-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/1426-counting-elements) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1122-relative-sort-array) |
 | [1133-largest-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1133-largest-unique-number) |
 | [1200-minimum-absolute-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shinkeonkim/my-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shinkeonkim/my-leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0311-sparse-matrix-multiplication](https://github.com/shinkeonkim/my-leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0422-valid-word-square](https://github.com/shinkeonkim/my-leetcode/tree/master/0422-valid-word-square) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/shinkeonkim/my-leetcode/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Backtracking
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/shinkeonkim/my-leetcode/tree/master/0506-relative-ranks) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Graph Theory
 |  |
