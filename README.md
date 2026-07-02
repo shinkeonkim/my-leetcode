@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shinkeonkim/my-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/shinkeonkim/my-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1710-maximum-units-on-a-truck](https://github.com/shinkeonkim/my-leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/shinkeonkim/my-leetcode/tree/master/1816-truncate-sentence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shinkeonkim/my-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shinkeonkim/my-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1710-maximum-units-on-a-truck](https://github.com/shinkeonkim/my-leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shinkeonkim/my-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shinkeonkim/my-leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Hash Table
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shinkeonkim/my-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shinkeonkim/my-leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1710-maximum-units-on-a-truck](https://github.com/shinkeonkim/my-leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/shinkeonkim/my-leetcode/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shinkeonkim/my-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shinkeonkim/my-leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
