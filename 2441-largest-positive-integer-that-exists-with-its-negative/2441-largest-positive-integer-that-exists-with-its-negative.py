@@ -1,14 +1,16 @@
+from collections import defaultdict
+
 class Solution:
-    def findMaxK(self, nums: List[int]) -> int:  # naive solution
+    def findMaxK(self, nums: List[int]) -> int:
         nums.sort()
-        d = {}
+        d = defaultdict(bool)
         ans = -1
 
         for i in nums:
             if i < 0:
-                d[i] = 1
+                d[i] = True
 
-            if i > 0 and -i in d:
+            if i > 0 and d[-i]:
                 ans = i
 
         return ans
