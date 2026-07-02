@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shinkeonkim/my-leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/shinkeonkim/my-leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/shinkeonkim/my-leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shinkeonkim/my-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shinkeonkim/my-leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
