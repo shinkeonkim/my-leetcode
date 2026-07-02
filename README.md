@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0256-paint-house](https://github.com/shinkeonkim/my-leetcode/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0265-paint-house-ii) |
 | [0280-wiggle-sort](https://github.com/shinkeonkim/my-leetcode/tree/master/0280-wiggle-sort) |
+| [0311-sparse-matrix-multiplication](https://github.com/shinkeonkim/my-leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0422-valid-word-square](https://github.com/shinkeonkim/my-leetcode/tree/master/0422-valid-word-square) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0249-group-shifted-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
+| [0311-sparse-matrix-multiplication](https://github.com/shinkeonkim/my-leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
 | [0734-sentence-similarity](https://github.com/shinkeonkim/my-leetcode/tree/master/0734-sentence-similarity) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0311-sparse-matrix-multiplication](https://github.com/shinkeonkim/my-leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0422-valid-word-square](https://github.com/shinkeonkim/my-leetcode/tree/master/0422-valid-word-square) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
 | [1672-richest-customer-wealth](https://github.com/shinkeonkim/my-leetcode/tree/master/1672-richest-customer-wealth) |
