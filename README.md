@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0760-find-anagram-mappings](https://github.com/shinkeonkim/my-leetcode/tree/master/0760-find-anagram-mappings) |
 | [1122-relative-sort-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1122-relative-sort-array) |
 | [1133-largest-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1133-largest-unique-number) |
+| [1165-single-row-keyboard](https://github.com/shinkeonkim/my-leetcode/tree/master/1165-single-row-keyboard) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1426-counting-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/1426-counting-elements) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
 | [0734-sentence-similarity](https://github.com/shinkeonkim/my-leetcode/tree/master/0734-sentence-similarity) |
 | [1021-remove-outermost-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1165-single-row-keyboard](https://github.com/shinkeonkim/my-leetcode/tree/master/1165-single-row-keyboard) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1427-perform-string-shifts](https://github.com/shinkeonkim/my-leetcode/tree/master/1427-perform-string-shifts) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shinkeonkim/my-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
