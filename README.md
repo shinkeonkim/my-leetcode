@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/shinkeonkim/my-leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1767-find-the-subtasks-that-did-not-execute](https://github.com/shinkeonkim/my-leetcode/tree/master/1767-find-the-subtasks-that-did-not-execute) |
 | [1777-products-price-for-each-store](https://github.com/shinkeonkim/my-leetcode/tree/master/1777-products-price-for-each-store) |
+| [1795-rearrange-products-table](https://github.com/shinkeonkim/my-leetcode/tree/master/1795-rearrange-products-table) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/shinkeonkim/my-leetcode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
 | [1853-convert-date-format](https://github.com/shinkeonkim/my-leetcode/tree/master/1853-convert-date-format) |
 | [1873-calculate-special-bonus](https://github.com/shinkeonkim/my-leetcode/tree/master/1873-calculate-special-bonus) |
