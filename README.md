@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
@@ -262,12 +264,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
