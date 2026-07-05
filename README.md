@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0249-group-shifted-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
 | [0389-find-the-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/shinkeonkim/my-leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/shinkeonkim/my-leetcode/tree/master/0709-to-lower-case) |
 | [0734-sentence-similarity](https://github.com/shinkeonkim/my-leetcode/tree/master/0734-sentence-similarity) |
 | [1021-remove-outermost-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shinkeonkim/my-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/shinkeonkim/my-leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Recursion
 |  |
 | ------- |
