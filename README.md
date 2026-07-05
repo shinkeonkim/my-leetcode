@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0163-missing-ranges](https://github.com/shinkeonkim/my-leetcode/tree/master/0163-missing-ranges) |
 | [0249-group-shifted-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/shinkeonkim/my-leetcode/tree/master/0252-meeting-rooms) |
 | [0256-paint-house](https://github.com/shinkeonkim/my-leetcode/tree/master/0256-paint-house) |
