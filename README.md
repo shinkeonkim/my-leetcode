@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shinkeonkim/my-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/shinkeonkim/my-leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shinkeonkim/my-leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/shinkeonkim/my-leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2325-decode-the-message](https://github.com/shinkeonkim/my-leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/shinkeonkim/my-leetcode/tree/master/2418-sort-the-people) |
 | [3146-permutation-difference-between-two-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/3146-permutation-difference-between-two-strings) |
