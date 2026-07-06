@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shinkeonkim/my-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shinkeonkim/my-leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shinkeonkim/my-leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shinkeonkim/my-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/shinkeonkim/my-leetcode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shinkeonkim/my-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shinkeonkim/my-leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2325-decode-the-message](https://github.com/shinkeonkim/my-leetcode/tree/master/2325-decode-the-message) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shinkeonkim/my-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/shinkeonkim/my-leetcode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shinkeonkim/my-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3063-linked-list-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3063-linked-list-frequency) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1768-merge-strings-alternately](https://github.com/shinkeonkim/my-leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/shinkeonkim/my-leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shinkeonkim/my-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shinkeonkim/my-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shinkeonkim/my-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shinkeonkim/my-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Counting Sort
 |  |
 | ------- |
