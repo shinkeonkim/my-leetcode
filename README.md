@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shinkeonkim/my-leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shinkeonkim/my-leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Greedy
 |  |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/shinkeonkim/my-leetcode/tree/master/2652-sum-multiples) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/3280-convert-date-to-binary) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/shinkeonkim/my-leetcode/tree/master/3516-find-closest-person) |
 ## Union-Find
 |  |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/shinkeonkim/my-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shinkeonkim/my-leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
