@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shinkeonkim/my-leetcode/tree/master/0506-relative-ranks) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [0734-sentence-similarity](https://github.com/shinkeonkim/my-leetcode/tree/master/0734-sentence-similarity) |
 | [0760-find-anagram-mappings](https://github.com/shinkeonkim/my-leetcode/tree/master/0760-find-anagram-mappings) |
 | [0977-squares-of-a-sorted-array](https://github.com/shinkeonkim/my-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/0389-find-the-difference) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
+| [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [0734-sentence-similarity](https://github.com/shinkeonkim/my-leetcode/tree/master/0734-sentence-similarity) |
 | [0760-find-anagram-mappings](https://github.com/shinkeonkim/my-leetcode/tree/master/0760-find-anagram-mappings) |
 | [0859-buddy-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0859-buddy-strings) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shinkeonkim/my-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shinkeonkim/my-leetcode/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [3063-linked-list-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3063-linked-list-frequency) |
 ## Counting
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
@@ -463,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shinkeonkim/my-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shinkeonkim/my-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shinkeonkim/my-leetcode/tree/master/0206-reverse-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
