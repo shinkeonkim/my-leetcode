@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shinkeonkim/my-leetcode/tree/master/0029-divide-two-integers) |
 | [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
 | [0389-find-the-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shinkeonkim/my-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1720-decode-xored-array) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-confusing-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1056-confusing-number) |
 | [1259-handshakes-that-dont-cross](https://github.com/shinkeonkim/my-leetcode/tree/master/1259-handshakes-that-dont-cross) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shinkeonkim/my-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1427-perform-string-shifts](https://github.com/shinkeonkim/my-leetcode/tree/master/1427-perform-string-shifts) |
 | [1486-xor-operation-in-an-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shinkeonkim/my-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
