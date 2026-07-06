@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/shinkeonkim/my-leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/shinkeonkim/my-leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
