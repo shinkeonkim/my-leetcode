@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0226-invert-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0226-invert-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 ## Breadth-First Search
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0226-invert-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 ## Binary Tree
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0226-invert-binary-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Two Pointers
