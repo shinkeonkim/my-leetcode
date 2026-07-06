@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2072-the-winner-university](https://github.com/shinkeonkim/my-leetcode/tree/master/2072-the-winner-university) |
 | [2082-the-number-of-rich-customers](https://github.com/shinkeonkim/my-leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2298-tasks-count-in-the-weekend](https://github.com/shinkeonkim/my-leetcode/tree/master/2298-tasks-count-in-the-weekend) |
+| [2324-product-sales-analysis-iv](https://github.com/shinkeonkim/my-leetcode/tree/master/2324-product-sales-analysis-iv) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shinkeonkim/my-leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [2362-generate-the-invoice](https://github.com/shinkeonkim/my-leetcode/tree/master/2362-generate-the-invoice) |
 | [2372-calculate-the-influence-of-each-salesperson](https://github.com/shinkeonkim/my-leetcode/tree/master/2372-calculate-the-influence-of-each-salesperson) |
