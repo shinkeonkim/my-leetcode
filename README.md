@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shinkeonkim/my-leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/shinkeonkim/my-leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Greedy
 |  |
 | ------- |
