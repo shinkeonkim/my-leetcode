@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shinkeonkim/my-leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/shinkeonkim/my-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/shinkeonkim/my-leetcode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shinkeonkim/my-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3063-linked-list-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3063-linked-list-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
