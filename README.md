@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [0734-sentence-similarity](https://github.com/shinkeonkim/my-leetcode/tree/master/0734-sentence-similarity) |
 | [0760-find-anagram-mappings](https://github.com/shinkeonkim/my-leetcode/tree/master/0760-find-anagram-mappings) |
+| [0976-largest-perimeter-triangle](https://github.com/shinkeonkim/my-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/shinkeonkim/my-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1122-relative-sort-array) |
 | [1133-largest-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1133-largest-unique-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0280-wiggle-sort](https://github.com/shinkeonkim/my-leetcode/tree/master/0280-wiggle-sort) |
 | [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0976-largest-perimeter-triangle](https://github.com/shinkeonkim/my-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shinkeonkim/my-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/shinkeonkim/my-leetcode/tree/master/0506-relative-ranks) |
+| [0976-largest-perimeter-triangle](https://github.com/shinkeonkim/my-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/shinkeonkim/my-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1122-relative-sort-array) |
 | [1133-largest-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1133-largest-unique-number) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shinkeonkim/my-leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/shinkeonkim/my-leetcode/tree/master/0029-divide-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/shinkeonkim/my-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1056-confusing-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1056-confusing-number) |
 | [1259-handshakes-that-dont-cross](https://github.com/shinkeonkim/my-leetcode/tree/master/1259-handshakes-that-dont-cross) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shinkeonkim/my-leetcode/tree/master/1266-minimum-time-visiting-all-points) |
