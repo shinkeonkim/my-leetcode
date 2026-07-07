@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shinkeonkim/my-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shinkeonkim/my-leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/shinkeonkim/my-leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/shinkeonkim/my-leetcode/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/shinkeonkim/my-leetcode/tree/master/1550-three-consecutive-odds) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shinkeonkim/my-leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shinkeonkim/my-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shinkeonkim/my-leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/shinkeonkim/my-leetcode/tree/master/1710-maximum-units-on-a-truck) |
