@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shinkeonkim/my-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/shinkeonkim/my-leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/shinkeonkim/my-leetcode/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shinkeonkim/my-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shinkeonkim/my-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shinkeonkim/my-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shinkeonkim/my-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shinkeonkim/my-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/shinkeonkim/my-leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shinkeonkim/my-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shinkeonkim/my-leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/shinkeonkim/my-leetcode/tree/master/2235-add-two-integers) |
