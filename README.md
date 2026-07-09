@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shinkeonkim/my-leetcode/tree/master/0506-relative-ranks) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0682-baseball-game](https://github.com/shinkeonkim/my-leetcode/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [0734-sentence-similarity](https://github.com/shinkeonkim/my-leetcode/tree/master/0734-sentence-similarity) |
 | [0760-find-anagram-mappings](https://github.com/shinkeonkim/my-leetcode/tree/master/0760-find-anagram-mappings) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/shinkeonkim/my-leetcode/tree/master/0682-baseball-game) |
 | [1041-robot-bounded-in-circle](https://github.com/shinkeonkim/my-leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shinkeonkim/my-leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1603-design-parking-system) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shinkeonkim/my-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/shinkeonkim/my-leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/shinkeonkim/my-leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
