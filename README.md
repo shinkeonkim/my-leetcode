@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shinkeonkim/my-leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shinkeonkim/my-leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shinkeonkim/my-leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1313-decompress-run-length-encoded-list](https://github.com/shinkeonkim/my-leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1122-relative-sort-array) |
 | [1133-largest-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1133-largest-unique-number) |
 | [1165-single-row-keyboard](https://github.com/shinkeonkim/my-leetcode/tree/master/1165-single-row-keyboard) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shinkeonkim/my-leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1426-counting-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/1426-counting-elements) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/shinkeonkim/my-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/shinkeonkim/my-leetcode/tree/master/0682-baseball-game) |
 | [1041-robot-bounded-in-circle](https://github.com/shinkeonkim/my-leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shinkeonkim/my-leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shinkeonkim/my-leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/shinkeonkim/my-leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0311-sparse-matrix-multiplication](https://github.com/shinkeonkim/my-leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0422-valid-word-square](https://github.com/shinkeonkim/my-leetcode/tree/master/0422-valid-word-square) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shinkeonkim/my-leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shinkeonkim/my-leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shinkeonkim/my-leetcode/tree/master/1672-richest-customer-wealth) |
