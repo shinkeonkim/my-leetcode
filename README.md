@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shinkeonkim/my-leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3595-once-twice](https://github.com/shinkeonkim/my-leetcode/tree/master/3595-once-twice) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shinkeonkim/my-leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Greedy
 |  |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shinkeonkim/my-leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shinkeonkim/my-leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3595-once-twice](https://github.com/shinkeonkim/my-leetcode/tree/master/3595-once-twice) |
 ## Math
 |  |
 | ------- |
