@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/shinkeonkim/my-leetcode/tree/master/0242-valid-anagram) |
 | [0249-group-shifted-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shinkeonkim/my-leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shinkeonkim/my-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shinkeonkim/my-leetcode/tree/master/0058-length-of-last-word) |
 | [0161-one-edit-distance](https://github.com/shinkeonkim/my-leetcode/tree/master/0161-one-edit-distance) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shinkeonkim/my-leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shinkeonkim/my-leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/shinkeonkim/my-leetcode/tree/master/0066-plus-one) |
 | [0445-add-two-numbers-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0445-add-two-numbers-ii) |
