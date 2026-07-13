@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 | [1506-find-root-of-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1506-find-root-of-n-ary-tree) |
+| [1522-diameter-of-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1522-diameter-of-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Depth-First Search
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-find-all-the-lonely-nodes](https://github.com/shinkeonkim/my-leetcode/tree/master/1469-find-all-the-lonely-nodes) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 | [1506-find-root-of-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1506-find-root-of-n-ary-tree) |
+| [1522-diameter-of-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1522-diameter-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
