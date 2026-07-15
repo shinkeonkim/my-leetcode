@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shinkeonkim/my-leetcode/tree/master/0066-plus-one) |
 | [0163-missing-ranges](https://github.com/shinkeonkim/my-leetcode/tree/master/0163-missing-ranges) |
 | [0249-group-shifted-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0249-group-shifted-strings) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/shinkeonkim/my-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/shinkeonkim/my-leetcode/tree/master/0682-baseball-game) |
 | [1041-robot-bounded-in-circle](https://github.com/shinkeonkim/my-leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/0054-spiral-matrix) |
 | [0311-sparse-matrix-multiplication](https://github.com/shinkeonkim/my-leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0422-valid-word-square](https://github.com/shinkeonkim/my-leetcode/tree/master/0422-valid-word-square) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
