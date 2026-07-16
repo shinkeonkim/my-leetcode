@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/shinkeonkim/my-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/shinkeonkim/my-leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1056-confusing-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1056-confusing-number) |
+| [1134-armstrong-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1134-armstrong-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shinkeonkim/my-leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1259-handshakes-that-dont-cross](https://github.com/shinkeonkim/my-leetcode/tree/master/1259-handshakes-that-dont-cross) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shinkeonkim/my-leetcode/tree/master/1266-minimum-time-visiting-all-points) |
