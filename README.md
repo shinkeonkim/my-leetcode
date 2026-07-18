@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shinkeonkim/my-leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/shinkeonkim/my-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0163-missing-ranges](https://github.com/shinkeonkim/my-leetcode/tree/master/0163-missing-ranges) |
 | [0249-group-shifted-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/shinkeonkim/my-leetcode/tree/master/0252-meeting-rooms) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/shinkeonkim/my-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/shinkeonkim/my-leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/shinkeonkim/my-leetcode/tree/master/0242-valid-anagram) |
 | [0249-group-shifted-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0249-group-shifted-strings) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/shinkeonkim/my-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0311-sparse-matrix-multiplication](https://github.com/shinkeonkim/my-leetcode/tree/master/0311-sparse-matrix-multiplication) |
 | [0422-valid-word-square](https://github.com/shinkeonkim/my-leetcode/tree/master/0422-valid-word-square) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
