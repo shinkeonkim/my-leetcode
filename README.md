@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-perform-string-shifts](https://github.com/shinkeonkim/my-leetcode/tree/master/1427-perform-string-shifts) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shinkeonkim/my-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shinkeonkim/my-leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shinkeonkim/my-leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/shinkeonkim/my-leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
+| [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
 | [3063-linked-list-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3063-linked-list-frequency) |
 ## Counting
 |  |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shinkeonkim/my-leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/shinkeonkim/my-leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
+| [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
 | [2000-reverse-prefix-of-word](https://github.com/shinkeonkim/my-leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/shinkeonkim/my-leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [1396-design-underground-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
@@ -600,8 +604,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/shinkeonkim/my-leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
 ## Sliding Window
 |  |
 | ------- |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/shinkeonkim/my-leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
