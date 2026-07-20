@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/shinkeonkim/my-leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1426-counting-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/1426-counting-elements) |
 | [1427-perform-string-shifts](https://github.com/shinkeonkim/my-leetcode/tree/master/1427-perform-string-shifts) |
+| [1429-first-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1429-first-unique-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shinkeonkim/my-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1396-design-underground-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1396-design-underground-system) |
 | [1426-counting-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/1426-counting-elements) |
+| [1429-first-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1429-first-unique-number) |
 | [1490-clone-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1490-clone-n-ary-tree) |
 | [1506-find-root-of-n-ary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/1506-find-root-of-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/shinkeonkim/my-leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [1396-design-underground-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1396-design-underground-system) |
+| [1429-first-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1429-first-unique-number) |
 | [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
@@ -600,10 +603,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/shinkeonkim/my-leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [1429-first-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1429-first-unique-number) |
 ## Data Stream
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/shinkeonkim/my-leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [1429-first-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1429-first-unique-number) |
 | [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
 ## Sliding Window
 |  |
