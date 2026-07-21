@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/shinkeonkim/my-leetcode/tree/master/1122-relative-sort-array) |
 | [1133-largest-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1133-largest-unique-number) |
 | [1200-minimum-absolute-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1228-missing-number-in-arithmetic-progression](https://github.com/shinkeonkim/my-leetcode/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shinkeonkim/my-leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shinkeonkim/my-leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shinkeonkim/my-leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/shinkeonkim/my-leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1056-confusing-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1056-confusing-number) |
 | [1134-armstrong-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1134-armstrong-number) |
+| [1228-missing-number-in-arithmetic-progression](https://github.com/shinkeonkim/my-leetcode/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shinkeonkim/my-leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1259-handshakes-that-dont-cross](https://github.com/shinkeonkim/my-leetcode/tree/master/1259-handshakes-that-dont-cross) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shinkeonkim/my-leetcode/tree/master/1266-minimum-time-visiting-all-points) |
