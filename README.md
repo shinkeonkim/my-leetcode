@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shinkeonkim/my-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shinkeonkim/my-leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/0067-add-binary) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/shinkeonkim/my-leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0161-one-edit-distance](https://github.com/shinkeonkim/my-leetcode/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0186-reverse-words-in-a-string-ii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/shinkeonkim/my-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/shinkeonkim/my-leetcode/tree/master/0682-baseball-game) |
 | [1041-robot-bounded-in-circle](https://github.com/shinkeonkim/my-leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shinkeonkim/my-leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/0067-add-binary) |
 | [0266-palindrome-permutation](https://github.com/shinkeonkim/my-leetcode/tree/master/0266-palindrome-permutation) |
 | [0389-find-the-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shinkeonkim/my-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shinkeonkim/my-leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/shinkeonkim/my-leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/shinkeonkim/my-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/shinkeonkim/my-leetcode/tree/master/1041-robot-bounded-in-circle) |
