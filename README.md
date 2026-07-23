@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0226-invert-binary-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/shinkeonkim/my-leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/shinkeonkim/my-leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0226-invert-binary-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/shinkeonkim/my-leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/shinkeonkim/my-leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0226-invert-binary-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/shinkeonkim/my-leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/shinkeonkim/my-leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/shinkeonkim/my-leetcode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/shinkeonkim/my-leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/shinkeonkim/my-leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0938-range-sum-of-bst](https://github.com/shinkeonkim/my-leetcode/tree/master/0938-range-sum-of-bst) |
 ## Design
 |  |
