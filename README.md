@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0422-valid-word-square](https://github.com/shinkeonkim/my-leetcode/tree/master/0422-valid-word-square) |
 | [0506-relative-ranks](https://github.com/shinkeonkim/my-leetcode/tree/master/0506-relative-ranks) |
 | [0531-lonely-pixel-i](https://github.com/shinkeonkim/my-leetcode/tree/master/0531-lonely-pixel-i) |
+| [0622-design-circular-queue](https://github.com/shinkeonkim/my-leetcode/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/shinkeonkim/my-leetcode/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shinkeonkim/my-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shinkeonkim/my-leetcode/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/shinkeonkim/my-leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/shinkeonkim/my-leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/shinkeonkim/my-leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/shinkeonkim/my-leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/shinkeonkim/my-leetcode/tree/master/0706-design-hashmap) |
 | [1396-design-underground-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1396-design-underground-system) |
 | [1429-first-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1429-first-unique-number) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/shinkeonkim/my-leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/shinkeonkim/my-leetcode/tree/master/0622-design-circular-queue) |
 | [1429-first-unique-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1429-first-unique-number) |
 ## Data Stream
 |  |
