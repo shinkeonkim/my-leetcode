@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0860-lemonade-change](https://github.com/shinkeonkim/my-leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/shinkeonkim/my-leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1055-shortest-way-to-form-string](https://github.com/shinkeonkim/my-leetcode/tree/master/1055-shortest-way-to-form-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/shinkeonkim/my-leetcode/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shinkeonkim/my-leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0859-buddy-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/shinkeonkim/my-leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [1055-shortest-way-to-form-string](https://github.com/shinkeonkim/my-leetcode/tree/master/1055-shortest-way-to-form-string) |
 | [1165-single-row-keyboard](https://github.com/shinkeonkim/my-leetcode/tree/master/1165-single-row-keyboard) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1396-design-underground-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1396-design-underground-system) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shinkeonkim/my-leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shinkeonkim/my-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1055-shortest-way-to-form-string](https://github.com/shinkeonkim/my-leetcode/tree/master/1055-shortest-way-to-form-string) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/shinkeonkim/my-leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinkeonkim/my-leetcode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1768-merge-strings-alternately](https://github.com/shinkeonkim/my-leetcode/tree/master/1768-merge-strings-alternately) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/shinkeonkim/my-leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1055-shortest-way-to-form-string](https://github.com/shinkeonkim/my-leetcode/tree/master/1055-shortest-way-to-form-string) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
