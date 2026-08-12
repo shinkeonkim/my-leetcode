@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/shinkeonkim/my-leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shinkeonkim/my-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shinkeonkim/my-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shinkeonkim/my-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/0067-add-binary) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/0022-generate-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shinkeonkim/my-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shinkeonkim/my-leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/0022-generate-parentheses) |
 | [0256-paint-house](https://github.com/shinkeonkim/my-leetcode/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/shinkeonkim/my-leetcode/tree/master/0276-paint-fence) |
@@ -641,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
