@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shinkeonkim/my-leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shinkeonkim/my-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/shinkeonkim/my-leetcode/tree/master/0125-valid-palindrome) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/shinkeonkim/my-leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0161-one-edit-distance](https://github.com/shinkeonkim/my-leetcode/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0186-reverse-words-in-a-string-ii) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shinkeonkim/my-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/shinkeonkim/my-leetcode/tree/master/0125-valid-palindrome) |
 | [0161-one-edit-distance](https://github.com/shinkeonkim/my-leetcode/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0283-move-zeroes](https://github.com/shinkeonkim/my-leetcode/tree/master/0283-move-zeroes) |
