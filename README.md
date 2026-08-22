@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shinkeonkim/my-leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shinkeonkim/my-leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shinkeonkim/my-leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/shinkeonkim/my-leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shinkeonkim/my-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/shinkeonkim/my-leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/shinkeonkim/my-leetcode/tree/master/0242-valid-anagram) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shinkeonkim/my-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/shinkeonkim/my-leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shinkeonkim/my-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/0067-add-binary) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/shinkeonkim/my-leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shinkeonkim/my-leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shinkeonkim/my-leetcode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/shinkeonkim/my-leetcode/tree/master/0252-meeting-rooms) |
 | [0280-wiggle-sort](https://github.com/shinkeonkim/my-leetcode/tree/master/0280-wiggle-sort) |
