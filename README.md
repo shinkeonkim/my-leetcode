@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shinkeonkim/my-leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/shinkeonkim/my-leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shinkeonkim/my-leetcode/tree/master/0066-plus-one) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shinkeonkim/my-leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shinkeonkim/my-leetcode/tree/master/0069-sqrtx) |
 | [0270-closest-binary-search-tree-value](https://github.com/shinkeonkim/my-leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
