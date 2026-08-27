@@ -20,9 +20,9 @@ class Solution:
 
         if self.isLeaf(node):
             return currentSum == targetSum
-        
 
-        leftResult = self.tracker(node.left, currentSum, targetSum)
-        rightResult = self.tracker(node.right, currentSum, targetSum)
-
-        return leftResult or rightResult
+        return (
+            self.tracker(node.left, currentSum, targetSum)
+            or
+            self.tracker(node.right, currentSum, targetSum)
+        )
