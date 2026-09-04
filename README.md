@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shinkeonkim/my-leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3595-once-twice](https://github.com/shinkeonkim/my-leetcode/tree/master/3595-once-twice) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shinkeonkim/my-leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3731-find-missing-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shinkeonkim/my-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-count-odd-letters-from-number](https://github.com/shinkeonkim/my-leetcode/tree/master/3581-count-odd-letters-from-number) |
 | [3662-filter-characters-by-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3662-filter-characters-by-frequency) |
+| [3731-find-missing-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shinkeonkim/my-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3731-find-missing-elements](https://github.com/shinkeonkim/my-leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
