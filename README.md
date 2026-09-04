@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shinkeonkim/my-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shinkeonkim/my-leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shinkeonkim/my-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shinkeonkim/my-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shinkeonkim/my-leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/shinkeonkim/my-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/shinkeonkim/my-leetcode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shinkeonkim/my-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3063-linked-list-frequency](https://github.com/shinkeonkim/my-leetcode/tree/master/3063-linked-list-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shinkeonkim/my-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shinkeonkim/my-leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/shinkeonkim/my-leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shinkeonkim/my-leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/shinkeonkim/my-leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/shinkeonkim/my-leetcode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shinkeonkim/my-leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
