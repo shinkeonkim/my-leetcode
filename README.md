@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/shinkeonkim/my-leetcode/tree/master/1396-design-underground-system) |
 | [1427-perform-string-shifts](https://github.com/shinkeonkim/my-leetcode/tree/master/1427-perform-string-shifts) |
 | [1528-shuffle-string](https://github.com/shinkeonkim/my-leetcode/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shinkeonkim/my-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/shinkeonkim/my-leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/shinkeonkim/my-leetcode/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1472-design-browser-history](https://github.com/shinkeonkim/my-leetcode/tree/master/1472-design-browser-history) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/shinkeonkim/my-leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
