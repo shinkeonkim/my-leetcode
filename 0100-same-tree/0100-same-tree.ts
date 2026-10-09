@@ -13,25 +13,8 @@
  */
 
 function isSameTree(p: TreeNode | null, q: TreeNode | null): boolean {
-    
     if (p === null && q === null) return true;
     if (p === null || q === null) return false;
 
-    if(p.val !== q.val) return false;
-
-    let ret = true;
-
-    if((p.left !== null) == (q.left !== null)) {
-        ret = ret && isSameTree(p.left, q.left)
-    } else {
-        ret = false;
-    }
-
-    if((p.right !== null) == (q.right !== null)) {
-        ret = ret && isSameTree(p.right, q.right)
-    } else {
-        ret = false;
-    }
-
-    return ret;
+    return p.val === q.val && isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
 };
