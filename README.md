@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shinkeonkim/my-leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/shinkeonkim/my-leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shinkeonkim/my-leetcode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/shinkeonkim/my-leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shinkeonkim/my-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shinkeonkim/my-leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shinkeonkim/my-leetcode/tree/master/0069-sqrtx) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shinkeonkim/my-leetcode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shinkeonkim/my-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/shinkeonkim/my-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shinkeonkim/my-leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0256-paint-house](https://github.com/shinkeonkim/my-leetcode/tree/master/0256-paint-house) |
