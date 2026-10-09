@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shinkeonkim/my-leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shinkeonkim/my-leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shinkeonkim/my-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0119-pascals-triangle-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/shinkeonkim/my-leetcode/tree/master/0136-single-number) |
 | [0163-missing-ranges](https://github.com/shinkeonkim/my-leetcode/tree/master/0163-missing-ranges) |
 | [0249-group-shifted-strings](https://github.com/shinkeonkim/my-leetcode/tree/master/0249-group-shifted-strings) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shinkeonkim/my-leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/shinkeonkim/my-leetcode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0256-paint-house](https://github.com/shinkeonkim/my-leetcode/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/shinkeonkim/my-leetcode/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/shinkeonkim/my-leetcode/tree/master/0276-paint-fence) |
